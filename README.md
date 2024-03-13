@@ -1,4 +1,3 @@
-any one can  to contribute this !
 
 Newsletter Application
 This is a simple newsletter application that allows users to sign up for a newsletter using their first name, last name, and email address. The application integrates with APIs to handle user sign-ups and manage newsletter subscriptions.
